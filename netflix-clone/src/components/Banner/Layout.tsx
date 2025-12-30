@@ -21,7 +21,7 @@ export const Layout = ({ movie, truncate }: Props) => {
         </div>
       </div>
      
-      <div className="h-[7.4rem] gradual-gradient" />
+      <div className="h-[7.4rem] bg-gradual-gradient" />
     </header>
   );
 };
